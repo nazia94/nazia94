@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T04:20:14.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yEoi6wotUYaGCwrNys05" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T04:22:31.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SVWVU-I6BtR7L1yNco9y" version="20.2.1" type="github">
   <diagram id="0cu_SJoZnBy_3Su1YbZQ" name="Page-1">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qf1WDNYy3VTvzd_KDpJm-8" value="20&lt;br&gt;Group of participants with healthy older adults" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qf1WDNYy3VTvzd_KDpJm-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qf1WDNYy3VTvzd_KDpJm-3">
           <mxGeometry relative="1" as="geometry">
@@ -29,6 +29,20 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="10" as="sourcePoint" />
             <mxPoint x="370" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf1WDNYy3VTvzd_KDpJm-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.425;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.65;entryY=-0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qf1WDNYy3VTvzd_KDpJm-5" target="Qf1WDNYy3VTvzd_KDpJm-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="100" as="sourcePoint" />
+            <mxPoint x="290" y="140" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf1WDNYy3VTvzd_KDpJm-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.258;entryY=-0.117;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.583;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qf1WDNYy3VTvzd_KDpJm-5" target="Qf1WDNYy3VTvzd_KDpJm-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358" y="91.98000000000002" as="sourcePoint" />
+            <mxPoint x="300.03999999999996" y="139.98000000000002" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
